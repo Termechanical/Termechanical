@@ -3,4 +3,4 @@
 Rock-hard 24/7, also read my Rentry.
 
 
-No dni, if you're weird I'll ignore you on purpose.
+No dni, if you're weird I'll either ignore you or make it clear that you are.
