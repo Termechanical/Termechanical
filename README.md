@@ -2,4 +2,4 @@
 
 Termechanical on Discord, first Rentry has the most info.
 
-Last Rentry is made by Roxy @tipsyWizard
+Last Rentry is made by Roxy [@tipsyWizard](https://github.com/tipsyWizard)
