@@ -2,4 +2,4 @@
 
 Termechanical on Discord, first Rentry has the most info.
 
-The carrd is a bit dated but it's staying.
+Last Rentry is made by Roxy (@tipsyWizard)
