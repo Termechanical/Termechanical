@@ -1,6 +1,13 @@
 Termechanical on Discord, first Rentry has the most info.
 
-Last Rentry was made by my friend Roxy [@tipsyWizard](https://github.com/tipsyWizard)
+<style> .Last Rentry was made by my friend Roxy [@tipsyWizard](https://github.com/tipsyWizard){
+animation:blink 1s step-end infinite;
+display-block:inline;
+}
+@keyframes blink {
+0% {opacity:1;}
+50% {opacity:0;}
+} </style>
 
 <TABLE BORDER=0><TR><TD>
 <A HREF="http://quiz.ravenblack.net/flavour.pl"><IMG BORDER=0 ALIGN="LEFT" WIDTH=100 HEIGHT=100 SRC="http://quiz.ravenblack.net/flavour/13.png" ALT="What Flavour Are You? Warning: I taste like Gasoline." /></A>Warning: I taste like <B>Gasoline</B>.<BR /><BR />
