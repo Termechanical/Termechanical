@@ -7,7 +7,3 @@ Last Rentry was made by my friend Roxy [@tipsyWizard](https://github.com/tipsyWi
 I may not taste good, but I'm handy to have around if you want to breathe fire. I'm expensive, and sometimes cause disputes. I'm inflammatory, you see. Ha ha. <A HREF="http://quiz.ravenblack.net/flavour.pl">What Flavour Are You?</A>
 </TD></TR></TABLE>
 
-<script src="https://unpkg.com/cursor-effects@latest/dist/browser.js"></script>
-new cursoreffects.fairyDustCursor({
-  colors: ["#ff0000", "#00ff00", "#0000ff"],
-});
