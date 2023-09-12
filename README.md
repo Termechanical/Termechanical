@@ -1,5 +1,4 @@
-![](https://media.discordapp.net/attachments/1019057426688905290/1137117416158150686/dirk2.gif?width=139&height=84)
+![](https://media.discordapp.net/attachments/1125645005365710859/1150983009210744832/Untitled135_20230911223451.png?width=80&height=45)
 
 Termechanical on Discord
 
-I'm offtab a lot, whisper me to get my attention.
