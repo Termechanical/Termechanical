@@ -4,4 +4,4 @@ Made of chromium plated boiling metal; I'm brighter than a thousand suns.
 
 Everyone say thank you to my bf for making me a Painkiller stamp (so fucking happy)
 
-Read the bottom linked Rentry
+Read the last linked Rentry
